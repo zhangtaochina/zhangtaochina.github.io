@@ -1,12 +1,12 @@
 ---
 layout: page
-description: "人文主义/极客/重度运动"
+description: "陈素封"
 ---
 
 {% for post in paginator.posts %}
 <div class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
-        <h2 class="post-title">
+        <h2 class="post-title">            
             {{ post.title }}
         </h2>
         {% if post.subtitle %}
@@ -15,10 +15,10 @@ description: "人文主义/极客/重度运动"
         </h3>
         {% endif %}
         <div class="post-content-preview">
-            {{ post.content | strip_html | truncate:150 }}
+            {{ post.content | strip_html | truncate:140 }}
         </div>
     </a>
-    <p class="post-meta">Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}</p>
+    <p class="post-meta">Posted on {{ post.date | date: "%Y-%m-%d" }}</p>
 </div>
 
 <hr>
