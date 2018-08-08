@@ -1,31 +1,31 @@
 # Site settings
-title: 张韬 # 你的博客名字，可以定义修订
+title: 弓箭 # 你的博客名字，可以定义修订
 header-img: "img/green.jpg"
-tagline: "cn"  
-description: "用来写字的地方"  # 一句话描述你的博客
+tagline: "cn"
+description: "人文主义/极客/重度运动"  # 一句话描述你的博客
 baseurl: ""
-url: "http://gonghejian.cn"  # 此处填写你的博客地址 
+url: "http://gonghejian.cn"  # 此处填写你的博客地址
 
 # About/contact
-owner: 
+owner:
   name: "张韬" # 填写作者信息：名字
   email: izhangtao.cn@gmail.com # 填写作者信息：邮箱
-  bio: "闲来无事倒腾文字的地方" # 填写作者信息：博客描述
+  bio: "用文字表达思考" # 填写作者信息：博客描述
 
 # Data
 gavatar: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 favicon: img/favicon.png # 浏览器地址栏小图标，可自定义更改
 
-douban_username:  # 你的豆瓣id
-twitter_username: 
-github_username: 
-facebook_username: 
-weibo_username: 
-zhihu_username: 
+douban_username: atsf
+twitter_username:
+github_username:
+facebook_username:
+weibo_username:
+zhihu_username:
 
-# Build settings  
-# use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
+# Build settings
+# use Github Flavored Markdown !important
+# document: http://jekyllrb.com/docs/configuration/#kramdown
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
@@ -38,7 +38,7 @@ timezone: Asia/Shanghai
 # Defaults for posts
 defaults:
   -
-    scope: 
+    scope:
       path: ""
       type: "posts"
     values:
@@ -46,7 +46,7 @@ defaults:
       author: "你的名字" # 你的名字
       header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
 
-# Comments 
+# Comments
 comments :
   provider : disqus # 使用 disqus 评论模块，读者翻墙才能看见
   duoshuo :
