@@ -48,11 +48,11 @@ defaults:
 
 # Comments
 comments :
-  provider : disqus # 使用 disqus 评论模块，读者翻墙才能看见
+  provider : # 使用 disqus 评论模块，读者翻墙才能看见
   duoshuo :
     short_name : #
   disqus :
-      short_name : badboy315
+      short_name :
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:  # 填写你  google_analytics id
