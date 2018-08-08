@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Principles 精读记
-date: 2018-8-8
+date: 2017-08-04
 categories: books
 tags: [books,study]
 description: 我为自己活，别人让我肿么活，老子不干，老子为自己的人生负责
@@ -30,18 +30,3 @@ description: 我为自己活，别人让我肿么活，老子不干，老子为�
 听上去多么牛逼和金光闪闪的五条。可是，不容易。
 
 从不容易开始，思考这些原则，以及**在看的你，琢磨下，什么是你最重要的？**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
