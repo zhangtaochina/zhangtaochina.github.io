@@ -50,7 +50,7 @@ defaults:
 comments :
   provider : disqus
   duoshuo :
-    short_name : badboy315
+    short_name :
   disqus :
       short_name : badboy315
 
