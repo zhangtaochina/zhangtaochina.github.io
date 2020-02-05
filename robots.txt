@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://gonghejian.cn/sitemap.xml
+Sitemap: https://gonghejian.cn/sitemap.xml
