@@ -1,0 +1,23 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>LoveIt Theme | LoveIt Theme</title>
+        <link>/</link>
+        <description>LoveIt Theme | LoveIt Theme</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Wed, 05 Feb 2020 11:10:19 +0800</lastBuildDate><atom:link href="/" rel="self" type="application/rss+xml" /><item>
+                <title>My First Post</title>
+                <link>/about/</link>
+                <pubDate>Wed, 05 Feb 2020 11:10:19 +0800</pubDate><guid>/about/</guid>
+                <description>&lt;h1 id=&#34;helloworld&#34;&gt;Hello！World&lt;/h1&gt;
+&lt;h2 id=&#34;中文测试&#34;&gt;中文测试&lt;/h2&gt;
+&lt;p&gt;如何书写的&lt;strong&gt;感觉&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;测试&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+            </item><item>
+                <title>Posts</title>
+                <link>/posts/</link>
+                <pubDate>Wed, 05 Feb 2020 11:10:19 +0800</pubDate><guid>/posts/</guid>
+                <description></description>
+            </item></channel>
+</rss>
