@@ -62,7 +62,7 @@
 <meta property="og:description" content="Hugo theme jane example site." />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://gonghejian.cn/" />
-<meta property="og:updated_time" content="2019-03-04T16:01:23+08:00" />
+<meta property="og:updated_time" content="2017-08-20T21:38:52+08:00" />
 <meta itemprop="name" content="弓箭">
 <meta itemprop="description" content="Hugo theme jane example site."><meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="弓箭"/>
@@ -126,41 +126,8 @@
         
           
           
-            <a class="menu-item-link" href="https://gonghejian.cn/about/">About</a>
+            <a class="menu-item-link" href="https://gonghejian.cn/about/">关于</a>
           
-        
-      </li><li class="mobile-menu-item">
-        
-          
-          <div class="mobile-menu-parent">
-            <span class="mobile-submenu-open"></span>
-            <a href="https://gonghejian.cn/">
-              docs
-            </a>
-          </div>
-          <ul class="mobile-submenu-list">
-            
-              <li>
-                <a href="https://gonghejian.cn/post/jane-theme-preview/">Jane Theme Preview</a>
-              </li>
-            
-              <li>
-                <a href="https://gonghejian.cn/post/shortcodes-preview/">Shortcodes Preview</a>
-              </li>
-            
-              <li>
-                <a href="https://gonghejian.cn/post/image-preview/">Image Preview</a>
-              </li>
-            
-              <li>
-                <a href="https://gonghejian.cn/post/syntax-highlighting/">Syntax Highlighting</a>
-              </li>
-            
-              <li>
-                <a href="https://gonghejian.cn/post/math-preview/">Math Preview</a>
-              </li>
-            
-          </ul>
         
       </li>
     
@@ -295,40 +262,8 @@
         
           
           
-            <a class="menu-item-link" href="https://gonghejian.cn/about/">About</a>
+            <a class="menu-item-link" href="https://gonghejian.cn/about/">关于</a>
           
-
-        
-
-      </li>
-    
-        <li class="menu-item">
-        
-          
-          <a class="menu-item-link menu-parent" href="https://gonghejian.cn/">docs</a>
-          <ul class="submenu">
-            
-              <li>
-                <a href="https://gonghejian.cn/post/jane-theme-preview/">Jane Theme Preview</a>
-              </li>
-            
-              <li>
-                <a href="https://gonghejian.cn/post/shortcodes-preview/">Shortcodes Preview</a>
-              </li>
-            
-              <li>
-                <a href="https://gonghejian.cn/post/image-preview/">Image Preview</a>
-              </li>
-            
-              <li>
-                <a href="https://gonghejian.cn/post/syntax-highlighting/">Syntax Highlighting</a>
-              </li>
-            
-              <li>
-                <a href="https://gonghejian.cn/post/math-preview/">Math Preview</a>
-              </li>
-            
-          </ul>
 
         
 
@@ -360,23 +295,16 @@
   <header class="post-header">
     <h1 class="post-title">
       
-        <span class="post-pinned">
-          <svg class="icon" style="" viewBox="0 0 1024 1024" version="1.1"
-  width="32" height="32">
-  <path d="M682.666667 512V170.666667h42.666666V85.333333H298.666667v85.333334h42.666666v341.333333l-85.333333 85.333333v85.333334h221.866667v256h68.266666v-256H768v-85.333334l-85.333333-85.333333z"></path>
-</svg>
-
-        </span>
-      
-      <a class="post-link" href="/post/jane-theme-preview.zh-cn/">Jane 主题预览</a>
+      <a class="post-link" href="/post/creating-a-new-theme/">Creating a New Theme</a>
     </h1>
     
     <div class="post-meta">
-      <time datetime="2018-03-06" class="post-time">
-        2018-03-06
+      <time datetime="2014-09-28" class="post-time">
+        2014-09-28
       </time>
       <div class="post-category">
-          <a href="https://gonghejian.cn/categories/shortcodes/"> shortcodes </a>
+          <a href="https://gonghejian.cn/categories/development/"> Development </a>
+          <a href="https://gonghejian.cn/categories/golang/"> golang </a>
           <a href="https://gonghejian.cn/categories/index/"> index </a>
           
         </div>
@@ -389,91 +317,11 @@
   <div class="post-content">
     
     <div class="post-summary">
-      主题预览,内容有待填充。
+      Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&rsquo;t cover using CSS to style your theme.
+We&rsquo;ll start with creating a new site with a very basic template.
     </div>
     <div class="read-more">
-      <a href="/post/jane-theme-preview.zh-cn/" class="read-more-link">Read more</a>
-    </div>
-    
-  </div>
-</article>
-
-  
-    <article class="post bg-white">
-  <header class="post-header">
-    <h1 class="post-title">
-      
-        <span class="post-pinned">
-          <svg class="icon" style="" viewBox="0 0 1024 1024" version="1.1"
-  width="32" height="32">
-  <path d="M682.666667 512V170.666667h42.666666V85.333333H298.666667v85.333334h42.666666v341.333333l-85.333333 85.333333v85.333334h221.866667v256h68.266666v-256H768v-85.333334l-85.333333-85.333333z"></path>
-</svg>
-
-        </span>
-      
-      <a class="post-link" href="/post/jane-theme-preview/">Jane Theme Preview</a>
-    </h1>
-    
-    <div class="post-meta">
-      <time datetime="2018-01-01" class="post-time">
-        2018-01-01
-      </time>
-      <div class="post-category">
-          <a href="https://gonghejian.cn/categories/docs/"> docs </a>
-          <a href="https://gonghejian.cn/categories/shortcodes/"> shortcodes </a>
-          <a href="https://gonghejian.cn/categories/index/"> index </a>
-          
-        </div>
-      
-      
-      
-    </div>
-  </header>
-  
-  <div class="post-content">
-    
-    <div class="post-summary">
-      <p><strong>Markdown</strong> is created by <a href="http://daringfireball.net/">Daring Fireball</a>, the original guideline is <a href="http://daringfireball.net/projects/markdown/syntax">here</a>. Its syntax, however, varies between different parsers or editors.</p>
-<p>Please note that HTML fragments in markdown source will be recognized but not parsed or rendered. Also, there may be small reformatting on the original markdown source code after saving.</p>
-    </div>
-    <div class="read-more">
-      <a href="/post/jane-theme-preview/" class="read-more-link">Read more</a>
-    </div>
-    
-  </div>
-</article>
-
-  
-    <article class="post bg-white">
-  <header class="post-header">
-    <h1 class="post-title">
-      
-      <a class="post-link" href="/post/math-preview/">Math Preview</a>
-    </h1>
-    
-    <div class="post-meta">
-      <time datetime="2019-03-04" class="post-time">
-        2019-03-04
-      </time>
-      <div class="post-category">
-          <a href="https://gonghejian.cn/categories/docs/"> docs </a>
-          <a href="https://gonghejian.cn/categories/math/"> math </a>
-          <a href="https://gonghejian.cn/categories/index/"> index </a>
-          
-        </div>
-      
-      
-      
-    </div>
-  </header>
-  
-  <div class="post-content">
-    
-    <div class="post-summary">
-      <p><a href="https://www.intmath.com/cg5/katex-mathjax-comparison.php">KaTeX and MathJax Comparison Demo, currently processed as KaTex</a></p>
-    </div>
-    <div class="read-more">
-      <a href="/post/math-preview/" class="read-more-link">Read more</a>
+      <a href="/post/creating-a-new-theme/" class="read-more-link">Read more</a>
     </div>
     
   </div>
@@ -499,34 +347,6 @@
 
   
   
-
-  
-  
-  <nav class="pagination">
-    <ul>
-      
-      <li  class="active" >
-        <a href="/">1</a>
-      </li>
-      
-      <li >
-        <a href="/page/2/">2</a>
-      </li>
-      
-      <li >
-        <a href="/page/3/">3</a>
-      </li>
-      
-      <li >
-        <a href="/page/4/">4</a>
-      </li>
-      
-      <li >
-        <a href="/page/5/">5</a>
-      </li>
-      
-    </ul>
-  </nav>
 
   
   

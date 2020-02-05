@@ -6,64 +6,10 @@
     <description>Recent content in Categories on 弓箭</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 Mar 2019 16:01:23 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gonghejian.cn/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>docs</title>
-      <link>https://gonghejian.cn/categories/docs/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>https://gonghejian.cn/categories/docs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>index</title>
-      <link>https://gonghejian.cn/categories/index/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>https://gonghejian.cn/categories/index/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>math</title>
-      <link>https://gonghejian.cn/categories/math/</link>
-      <pubDate>Mon, 04 Mar 2019 16:01:23 +0800</pubDate>
-      
-      <guid>https://gonghejian.cn/categories/math/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shortcodes</title>
-      <link>https://gonghejian.cn/categories/shortcodes/</link>
-      <pubDate>Tue, 06 Mar 2018 16:01:23 +0800</pubDate>
-      
-      <guid>https://gonghejian.cn/categories/shortcodes/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>English</title>
-      <link>https://gonghejian.cn/categories/english/</link>
-      <pubDate>Thu, 31 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://gonghejian.cn/categories/english/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://gonghejian.cn/categories/test/</link>
-      <pubDate>Wed, 30 Aug 2017 15:43:48 +0800</pubDate>
-      
-      <guid>https://gonghejian.cn/categories/test/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Development</title>
@@ -84,11 +30,11 @@
     </item>
     
     <item>
-      <title>Syntax Highlighting</title>
-      <link>https://gonghejian.cn/categories/syntax-highlighting/</link>
-      <pubDate>Tue, 30 Aug 2011 16:01:23 +0800</pubDate>
+      <title>index</title>
+      <link>https://gonghejian.cn/categories/index/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://gonghejian.cn/categories/syntax-highlighting/</guid>
+      <guid>https://gonghejian.cn/categories/index/</guid>
       <description></description>
     </item>
     
