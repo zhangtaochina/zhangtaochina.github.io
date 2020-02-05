@@ -6,7 +6,7 @@
     <description>Recent content in Tags on 弓箭</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://gonghejian.cn/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,45 +14,36 @@
     <item>
       <title>development</title>
       <link>https://gonghejian.cn/tags/development/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://gonghejian.cn/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>go</title>
-      <link>https://gonghejian.cn/tags/go/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://gonghejian.cn/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>golang</title>
-      <link>https://gonghejian.cn/tags/golang/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://gonghejian.cn/tags/golang/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>templates</title>
-      <link>https://gonghejian.cn/tags/templates/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://gonghejian.cn/tags/templates/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>themes</title>
       <link>https://gonghejian.cn/tags/themes/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
       <guid>https://gonghejian.cn/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>books</title>
+      <link>https://gonghejian.cn/tags/books/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gonghejian.cn/tags/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>study</title>
+      <link>https://gonghejian.cn/tags/study/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gonghejian.cn/tags/study/</guid>
       <description></description>
     </item>
     

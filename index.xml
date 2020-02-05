@@ -6,7 +6,7 @@
     <description>Recent content on 弓箭</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 20 Aug 2017 21:38:52 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://gonghejian.cn/index.xml" rel="self" type="application/rss+xml" />
     
@@ -32,11 +32,11 @@
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://gonghejian.cn/post/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>hello world!</title>
+      <link>https://gonghejian.cn/post/2020-01-01-creating-a-new-theme/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://gonghejian.cn/post/creating-a-new-theme/</guid>
+      <guid>https://gonghejian.cn/post/2020-01-01-creating-a-new-theme/</guid>
       
         <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;
@@ -844,6 +844,33 @@ $ vi themes/zafta/layouts/_default/single.html
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Note that we removed the date logic from the default template and put it in the post template. Generate the web site and verify the results. Posts have dates and the about page doesn&amp;rsquo;t.&lt;/p&gt;
 &lt;h3 id=&#34;dont-repeat-yourself&#34;&gt;Don&amp;rsquo;t Repeat Yourself&lt;/h3&gt;
 &lt;p&gt;DRY is a good design goal and Hugo does a great job supporting it. Part of the art of a good template is knowing when to add a new template and when to update an existing one. While you&amp;rsquo;re figuring that out, accept that you&amp;rsquo;ll be doing some refactoring. Hugo makes that easy and fast, so it&amp;rsquo;s okay to delay splitting up a template.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Principles 精读记</title>
+      <link>https://gonghejian.cn/post/2018-08-08-read-principles/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://gonghejian.cn/post/2018-08-08-read-principles/</guid>
+      
+        <description>&lt;p&gt;我英文特别不好，可以用烂来形容。每每被学霸们嘲笑一阵，可是不影响我追求知识的兴趣。不接受打击，体现蜗牛精神本身是个乐趣。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://7xjhtv.com1.z0.glb.clouddn.com/image.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;于是，拿了这本小书。时间有限，拿一点点时间出来，陪自己精读一下。过去读书的日子，为了一点英文，追求了速度，忘记了速度之外，学习无他法，从信息到知识到行动，一步都不能省下去。省下去的，不会是你的，而是不重要的。为了学习，我们忍了。今日，不用忍了，那就慢慢读吧。&lt;/p&gt;
+&lt;p&gt;原则，这个词，很有意思。有意思的在于，最近的感悟，原则到底是个啥。在我不大不小的世界里，我发现原则并不容易。就像说说大道理总是听上去很简单的。做到不容易。&lt;/p&gt;
+&lt;p&gt;这本书很有意思的地方，在于作者的原则，是漫长的时间线里面所坚持的种种。就像我们看到亚马逊写给股东的信一样，十年了，战略依然是当年的战略。所谓不容易，就是这种坚定的坚持。&lt;/p&gt;
+&lt;p&gt;现在想想，我们每个人或多或少的也有一些原则。我们也可以细细来算一算，那些原则是你为之坚持了不少年头，并一直坚信的。定个原则很容易，难就难在，你对自己原则的判定是什么，坚持了多久，是不是过去许多也并不后悔的原则。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;有几条，我觉得特别有意思，也特别朴实，适合许多人：&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;我为自己活，别人让我肿么活，老子不干，老子为自己的人生负责；&lt;/li&gt;
+&lt;li&gt;为了目标，我要好好琢磨，好好思考，用最好的法子去解决目标；&lt;/li&gt;
+&lt;li&gt;始终要认识到自己不足，让最聪明的人来挑战你的观点，说服世界从说服聪明人开始；&lt;/li&gt;
+&lt;li&gt;别以为自己牛逼，别自己自己无所不知，谨慎！&lt;/li&gt;
+&lt;li&gt;你的行动就是和世界做游戏，好好感受游戏，体悟他，在过程中，优化他，最后征服她！&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;听上去多么牛逼和金光闪闪的五条。可是，不容易。&lt;/p&gt;
+&lt;p&gt;从不容易开始，思考这些原则，以及&lt;strong&gt;在看的你，琢磨下，什么是你最重要的？&lt;/strong&gt;&lt;/p&gt;
 </description>
       
     </item>
