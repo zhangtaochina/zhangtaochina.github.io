@@ -16,8 +16,7 @@ menu:
     url: "/categories.html"
   - title: "About"
     url: "/about.html"
-  - title: "Weekly"
-    url: "https://weekly.gonghejian.fun/"
+
 
 # SEO and Analytics
 google_analytics: G-KS7EDB6BRM
