@@ -1,4 +1,7 @@
 source "https://rubygems.org"
-gem "jekyll-text-theme"
-# gem "github-pages", group: :jekyll_plugins
-gemspec
+
+gem "jekyll"
+gem 'jekyll-paginate'
+gem 'jekyll-sitemap'
+gem "jekyll-pdf-embed"
+gem 'jekyll-feed'
